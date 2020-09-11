@@ -1,0 +1,25 @@
+{
+  "name": "tp-bootstrap-chrorou",
+  "version": "1.0.0",
+  "description": "Voir le fichier PDF dansle code **tp_bootstrap.pdf**\r Ce fichier que vous êtes entrain de lire est écrit en **Markdown**. Vous deverez dans le future pour chaque projet compléter ce fichier pour expliquer le contenu de votre projet ou d'un dossier particulier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enset-m/tp-bootstrap-chrorou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enset-m/tp-bootstrap-chrorou/issues"
+  },
+  "homepage": "https://github.com/enset-m/tp-bootstrap-chrorou#readme",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}
